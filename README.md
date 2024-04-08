@@ -5,12 +5,12 @@
 
 ### 工作技能
 ---
-- 作業系統類：Ubuntu、Windows
-- 程式設計:Python、Flask
-- 網頁技術:JavaScript、HTML、CSS
+- 作業系統類: Ubuntu、Windows
+- 程式設計: Python、Flask
+- 網頁技術: JavaScript、HTML、CSS
 - 資料庫: MySQL
-- 資料可視化：Tableau、PowerBI
-- 版本控制類:Git(Hub)
+- 資料可視化: Tableau、PowerBI
+- 版本控制類: Git(Hub)
 
 <!--
 **junweichen1999/junweichen1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
