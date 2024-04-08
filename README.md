@@ -1,4 +1,12 @@
-### Hi there 👋
+### About ME 
+---
+
+### 工作技能
+---
+- 程式設計:Python
+- 網頁技術:JavaScript、HTML、CSS
+- 資料庫: MySQL
+- 版本控制類:Git(Hub)
 
 <!--
 **junweichen1999/junweichen1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
