@@ -1,6 +1,7 @@
 ### About ME 
 ---
-  
+I'm a data analysis enthusiast who recently completed my training in data analysis and machine learning.   
+Though I'm new to the field, I'm passionate about leveraging data to drive insights and solutions. Here are some areas I specialize in:  
 
 
 ### 工作技能
